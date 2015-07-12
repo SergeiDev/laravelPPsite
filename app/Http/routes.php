@@ -15,6 +15,7 @@ Route::get('/', 'RequestController@home');
 
 Route::get('home', 'HomeController@index');
 
+Route::get('doska', 'RequestController@doska');
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',

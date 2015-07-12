@@ -1,0 +1,42 @@
+.intent{
+    text-indent:20px;
+    font-size: 1px;
+
+}
+
+
+.navbar {
+
+    font-size:18px;
+    background-color: green;
+}
+
+.navbar li{
+    color: green;
+}
+
+
+
+.footerjumbotron{
+
+    background: url("../picture/bg-footer.jpg") repeat;
+    margin-bottom: -100px;
+}
+.navbar-brand{
+    padding-left: 130px;
+}
+.jumbotron p{
+    font-size: 14px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+
+    background-color: green;
+}
+.featurette-divider {
+    margin: 10px 0;
+    border-color: green;
+}
+
+.doska{
+    margin-top: 140px;
+}

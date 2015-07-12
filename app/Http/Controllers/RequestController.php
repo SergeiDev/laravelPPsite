@@ -14,8 +14,12 @@ class RequestController extends Controller {
 	 */
 	public function home()
 	{
-return view('myApp');
+return view('home');
 	}
+    public function doska()
+    {
+        return view('doska');
+    }
 
 
 
